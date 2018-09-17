@@ -1,0 +1,41 @@
+_repo: A-Boy-s-Fortune-Or-The-Strange-Adventures-of-Ben-Baker_52017
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Preston, Charles F.
+    - Starr, Julian
+    - Jr., Horatio Alger
+    - Alger, Horatio
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2016-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fortune -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: A Boy's Fortune; Or, The Strange Adventures of Ben Baker
+url: http://www.gutenberg.org/ebooks/52017
